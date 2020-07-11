@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm a full stack developer currently studying at univeristy. 
+Alongside I develop revolutionary applications to reinvent the ways how humans do their daily tasks by automating them.
+
 <!--
 **hvlhasanka/hvlhasanka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
