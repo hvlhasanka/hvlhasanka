@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a full stack developer currently studying at univeristy. 
+I'm a full stack developer currently studying at university. 
 Alongside I develop revolutionary applications to reinvent the ways how humans do their daily tasks by automating them.
 
 <!--
