@@ -1,19 +1,56 @@
 ### Hi there 👋
 
-I'm a full-stack developer currently specialised in the MERN stack, React native, Cypress and Jenkins. 
-Alongside I develop revolutionary applications to reinvent the ways how humans can do their daily tasks by automating them.
+I'm a full-stack developer specialised in the MERN stack, React native, Cypress, Jenkins and many more epic tools. 🚀<br>
+I develop revolutionary applications to reinvent the ways how humans can do their daily tasks by automating them.
 
-🌱 Experienced in the following technologies =>
+🌱 Experienced working in =>
+
+Frontend -<br>
+
 - React
-- React native
+- React Native
 - NextJS
+
+Backend -<br>
 - Node (Express)
 - GraphQL
 - REST
 - AWS
+
+Database -<br>
 - MongoDB
 - MySQL
+- Firebase Firestore
+- SQLite
+- PostgreSQL
+- AWS DynamoDB
+
+File Managers -<br>
+- AWS S3
+- GCP (Firebase) Storage
+- Cloudinary
+
+Vector Database -<br>
+- Pinecone
+
+CI/CD -<br>
+- Github Actions
 - Jenkins
+- Bitrise
+- EAS Expo CI
+
+AI Model Providers for Applications via API -<br>
+- GCP Vertex AI
+- AWS Bedrock
+
+UI Design Tool -<br>
+- Figma
+
+AI Tools -<br>
+- ChatGPT
+- Codex
+- Claude
+- Gemini
 
 🔭 Alongside, learning how to build LLM models with clean datasets.
 
