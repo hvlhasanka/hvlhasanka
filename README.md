@@ -3,7 +3,7 @@
 I'm a full-stack developer currently specialised in the MERN stack, React native, Cypress and Jenkins. 
 Alongside I develop revolutionary applications to reinvent the ways how humans can do their daily tasks by automating them.
 
-Experienced in the following technologies =>
+🌱 Experienced in the following technologies =>
 - React
 - React native
 - NextJS
@@ -14,6 +14,8 @@ Experienced in the following technologies =>
 - MongoDB
 - MySQL
 - Jenkins
+
+🔭 Alongside, learning how to build LLM models with clean datasets.
 
 <!--
 **hvlhasanka/hvlhasanka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
