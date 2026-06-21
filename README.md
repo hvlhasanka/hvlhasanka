@@ -10,6 +10,8 @@ Frontend -<br>
 - React
 - React Native
 - NextJS
+- Angular
+- Vue
 
 Backend -<br>
 - Node (Express)
